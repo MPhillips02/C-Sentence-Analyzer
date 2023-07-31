@@ -1,0 +1,1 @@
+A C program that edits text depending on choice, it will fix capitalization, tell you the number of words, will tell you the number of characters, remove exclamation points and replace them with periods, or shorten spaces
